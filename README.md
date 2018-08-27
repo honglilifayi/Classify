@@ -1,4 +1,4 @@
 # Classify
 
-What I have done in this project.
+KNN, decision tree and random forest models have been used to improve the classification of Pulsar Stars.
 
